@@ -415,34 +415,7 @@ marquee{
 
 }
 
-/* 
-.gallery-item{
-
-    height:250px;
-    overflow:hidden;
-    border-radius:15px;
-    box-shadow:0 8px 25px rgba(0,0,0,0.15);
-    transition:.4s ease;
-
-}
-
-
-.gallery-item img{
-
-    height:100%;
-    width:100%;
-    object-fit:cover;
-    transition:.5s;
-
-}
-
-
-.gallery-item:hover img{
-
-    transform:translateY(-8px);
-
-} */
-
+/*
 .gallery-item{
 
 border-radius:20px;
